@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9d15f60-2264-47fb-b6b2-7e30aededbe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m1DkE1v3CRZDOFtocRAXXCuyIP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/test/models" />
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.summary_test.go">
+    <configuration name="TestGenerateRepoSummary in github.com/gh-utils/gh-summary/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gh-summary" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/gh-utils/gh-summary/test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGenerateRepoSummary\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gh-summary_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gh-summary" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/gh-utils/gh-summary" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/gh-summary_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gh-summary_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gh-summary" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/gh-utils/gh-summary" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/gh-summary_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="issue-summary_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gh-summary" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/gh-utils/gh-summary" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/issue-summary_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="summary_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="gh-summary" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GH_SUMMARY_GITHUB_PERSONAL_ACCESS_TOKEN" value="c56b0c93c185ac520cafc8569b2f9afd747e89e8 " />
+      </envs>
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/gh-utils/gh-summary" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/summary_test.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.gh-summary_test.go" />
+      <item itemvalue="Go Test.gh-summary_test.go (1)" />
+      <item itemvalue="Go Test.issue-summary_test.go" />
+      <item itemvalue="Go Test.summary_test.go" />
+      <item itemvalue="Go Test.TestGenerateRepoSummary in github.com/gh-utils/gh-summary/test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.summary_test.go" />
+        <item itemvalue="Go Test.gh-summary_test.go (1)" />
+        <item itemvalue="Go Test.issue-summary_test.go" />
+        <item itemvalue="Go Test.gh-summary_test.go" />
+        <item itemvalue="Go Test.TestGenerateRepoSummary in github.com/gh-utils/gh-summary/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/models/issue-summary_test.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/summary_test.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
