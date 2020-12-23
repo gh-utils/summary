@@ -34,3 +34,5 @@ jobs:
 
     - name: Test
       run: go test -v ./...
+      env:
+        GH_SUMMARY_GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_SUMMARY_GITHUB_PERSONAL_ACCESS_TOKEN }} 
